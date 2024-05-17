@@ -1,0 +1,16 @@
+git checkout development
+git pull
+git checkout yourbranch
+git rebase development
+
+work on your branch
+
+git add .
+git commit -m "make new change"
+
+git push origin yourbranch
+
+on GitHub repo-
+Make a pull request to development branch
+
+Note: You do NOT push directly to main, development, and staging branches
