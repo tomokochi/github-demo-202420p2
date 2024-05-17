@@ -1,6 +1,6 @@
-git checkout development
+git checkout development > Switch to a new branch "development"
 git pull
-git checkout yourbranch
+git checkout yourbranch > Switch to your own issue tackling now
 git rebase development
 
 work on your branch
